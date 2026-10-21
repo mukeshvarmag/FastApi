@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+students.db
+.env
+.idea/
+.pytest_cache/
